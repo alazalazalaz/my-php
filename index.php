@@ -2,4 +2,4 @@
 
 echo "hello world ddd";
 
-echo 'this my local';
+echo 'this is remote';
